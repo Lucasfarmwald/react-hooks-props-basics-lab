@@ -12,7 +12,7 @@ function App(props) {
   return (
     <div>
       <NavBar />
-      <Home name="Liza" city="New York"/>
+      <Home username="Liza" city="New York"/>
       <About bio="I made this!"  />
       <Links linkedin="https://www.linkedin.com/in/liza/" github="https://github.com/liza" />
     </div>
