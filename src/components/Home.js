@@ -4,7 +4,7 @@ function Home(props) {
   return (
     <div id="home">
       <h1 style={{color:"firebrick"}}>
-        {props.name} is a Web Developer from {props.city}
+        {props.username} is a Web Developer from {props.city}
       </h1>
     </div>
   );
